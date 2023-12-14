@@ -54,8 +54,7 @@ begin
 			
            
 			
-		-- reg_RDM <= memoria(conv_integer(unsigned(reg_PC)));
-    -- decodificador <= memoria(conv_integer(unsigned(reg_PC)))(7 downto 4);
+
 			
         end if;
     end process;
